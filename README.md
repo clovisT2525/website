@@ -1,6 +1,6 @@
 Projects
 if you hire me as a  Sr. DevOps Engineer in your company. you want me to
-implement DevOpsLifecycle in their company. You asked me to implement
+implement DevOpsLifecycle in your company. You asked me to implement
 this lifecycle as fast as possible. And you are a product-based company, yours 
 product is available on this GitHub link.
 https://github.com/clovisT2525/website.git
@@ -15,7 +15,6 @@ If commit is made to develop branch, just test the product, do not push to prod
 Dockerfile should bebuilt every time there is a push to Git-Hub. Use the
 following pre-built container for your application:
 clovisT2525/webapp
----
 The code should reside in '/var/www/html'
 5.The above tasks should be defined in a Jenkins Pipeline, with the
 following jobs:
